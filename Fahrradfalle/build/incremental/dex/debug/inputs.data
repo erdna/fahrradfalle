@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376765398000 707 0ec5a64445d2cb74b35dfa5eaffc02818bf4fbce /Users/anitzschke/Development/android-studio/fahrradfalle/Fahrradfalle/build/classes/debug/de/erdna/fahrradfalle/R.class
+1376765398000 440 bc0f387671f05b00f8fb1760b8a88063db8d8e03 /Users/anitzschke/Development/android-studio/fahrradfalle/Fahrradfalle/build/classes/debug/de/erdna/fahrradfalle/R$style.class
+1376765398000 397 6e9497c7cba1a90dcdb5e5310809d548ef1f61a2 /Users/anitzschke/Development/android-studio/fahrradfalle/Fahrradfalle/build/classes/debug/de/erdna/fahrradfalle/R$menu.class
+1376765398000 349 dc6e2503a2b136168c465f98defce4f6e9d86388 /Users/anitzschke/Development/android-studio/fahrradfalle/Fahrradfalle/build/classes/debug/de/erdna/fahrradfalle/R$attr.class
+1376765398000 481 7aebf370bab0840da14a9d5bfb9d496d88a690a2 /Users/anitzschke/Development/android-studio/fahrradfalle/Fahrradfalle/build/classes/debug/de/erdna/fahrradfalle/R$string.class
+1376765398000 823 76f66b680a9c76ff375f8c2df29d4a87fed65737 /Users/anitzschke/Development/android-studio/fahrradfalle/Fahrradfalle/build/classes/debug/de/erdna/fahrradfalle/MainActivity.class
+1375081616000 563264 44ec51e9d395a47aab135e5e1b556c0007442156 /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar
+1376765398000 351 837d6730b6bc69c7c2a28c82f2dbb913127f28e0 /Users/anitzschke/Development/android-studio/fahrradfalle/Fahrradfalle/build/classes/debug/de/erdna/fahrradfalle/BuildConfig.class
+1376765398000 412 30806ff0a164c822be4bef42a85952882575758e /Users/anitzschke/Development/android-studio/fahrradfalle/Fahrradfalle/build/classes/debug/de/erdna/fahrradfalle/R$layout.class
+1376765398000 416 4a27789f814f294e098466618d479ebe4b72524b /Users/anitzschke/Development/android-studio/fahrradfalle/Fahrradfalle/build/classes/debug/de/erdna/fahrradfalle/R$drawable.class
+1376765398000 402 e3ab92d7f6ab5aa1b9296fdb0ef347ea28956c62 /Users/anitzschke/Development/android-studio/fahrradfalle/Fahrradfalle/build/classes/debug/de/erdna/fahrradfalle/R$id.class
+1376765398000 470 2d3f98b4c8debff16d7e19ffb4f9179d49f2b98e /Users/anitzschke/Development/android-studio/fahrradfalle/Fahrradfalle/build/classes/debug/de/erdna/fahrradfalle/R$dimen.class
